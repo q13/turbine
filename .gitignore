@@ -3,6 +3,7 @@ bundle.js
 *.map
 node_modules/
 *~
+tags
 typings
 .tern-port
 .#*
@@ -11,4 +12,4 @@ generated/
 coverage/
 .vscode
 .awcache
-yarn.lock
+.cache
